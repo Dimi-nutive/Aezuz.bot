@@ -111,4 +111,4 @@ if __name__ == '__main__':
         bot.load_extension(ext)
 
 
-bot.run("ODY5NDA2NDMxNDc1MDMyMTY1.YP9v1g.BTilJYWAjrXfN1GadvhoW_x6qr0")
+bot.run("TOKEN")
