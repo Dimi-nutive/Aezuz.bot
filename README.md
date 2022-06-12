@@ -38,6 +38,6 @@ Copying the code and making it public bot without giving me credit would lead to
 
 When Someone message the bot privately their message is recorded as modmail and sent to moderaters channel where mods can reply
 
-<img src ="https://github.com/Dimi-nutive/Aezuz.bot/blob/main/Screenshot%202022-06-12%20185705.jpg" width = 200 height = 200>
+<img src ="https://github.com/Dimi-nutive/Aezuz.bot/blob/main/Screenshot%202022-06-12%20185705.jpg" width = 300 height = 300>
 
 
