@@ -3,7 +3,7 @@ Discord Bot for Aezuz's Server
 
 
 <div id="header" align="center" >
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="200" height="200"/>
+  <img src="https://yt3.ggpht.com/sY97LfX4NK9TyRBr83px6spOLdM12IAnUrAeRTZDogxAFxQ_suegwV_JAiPawcWP3VVuVEhUPg=s176-c-k-c0x00ffffff-no-rj" width="200" height="200"/>
 </div>
 
 <div id="badges" align="center">
