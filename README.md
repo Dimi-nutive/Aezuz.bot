@@ -27,7 +27,7 @@ Beta version 0.1 Here
 
 >> ⭐ Star Results :D
 
-If the repository reaches 20 stars I would be making custom discord bots for 3 random person in my Server [link at the end and even in my profile]
+If the repository reaches 20 stars I would be making custom discord bots for 3 random person in my Server [link  in my profile]
 
 >>License
 
